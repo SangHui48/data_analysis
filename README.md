@@ -1,6 +1,3 @@
-# data_analysis
-## 데이터 사이언스
+## 머신 러닝 딥러닝 공부
 ---
-- 이것이 데이터 분석이다.
-    - conda create -n pybook python=3.8
-    - pip install pandas numpy matplotlib
+- 혼자 공부하는 머신러닝 + 딥러닝
